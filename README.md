@@ -37,7 +37,7 @@ The CDS Technology keyboard layout is the sole layout option available:
 
 ### Rev1.0
 
-This revision implements all the main features of the mainboard ad controllers mentioned in the specifications.
+This revision implements all the main features of the mainboard mentioned in the specifications.
 
 #### Reset | DFU
 
