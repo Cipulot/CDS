@@ -33,8 +33,6 @@ The CDS Technology keyboard layout is the sole layout option available:
 
 ![PCB Front](/Assets/PCB_front.png)
 
-**NOTE**: The silkscreen text near the JST connector has the `GND` and `VBUS` label swapped. This is wrong and have been fixed in the latest revision.
-
 ## Revisions and relative features
 
 ### Rev1.0
