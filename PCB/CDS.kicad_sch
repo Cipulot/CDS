@@ -4963,313 +4963,313 @@
       (reference "SW1") (unit 1) (value "Magic Switch") (footprint "Button_Switch_SMD:SW_SPST_TL3342")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/8e207c73-f6b9-445a-bc34-64a78d2fa6dd"
-      (reference "SW2") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW2") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/75564ace-fdc0-4149-a3cc-b847590c3fe4"
-      (reference "SW3") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW3") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/a9c57420-3c00-4ddf-976a-907019de132f"
-      (reference "SW4") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW4") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/38fe72f1-8f13-4650-9ae3-76d4d6a1992b"
-      (reference "SW5") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW5") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/f96af7f4-869b-47e4-931f-516d641d3f7e"
-      (reference "SW6") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW6") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/215c44e9-7bfc-4856-a3a0-44bd997925c3"
-      (reference "SW7") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW7") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/dab470ea-4a83-4fe4-8781-4cb6970aacf0"
-      (reference "SW8") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW8") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/87622dd4-3c36-4d9c-b9bc-ff59465f2e08"
-      (reference "SW9") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW9") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/fb3c9390-017b-4f1a-bb91-fcf8deef2f8e"
-      (reference "SW10") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW10") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/b2c99426-83b3-4793-a0e1-873c72752f49"
-      (reference "SW11") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW11") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/c08aca81-6238-4447-9c54-a373024087cb"
-      (reference "SW12") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW12") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/f692323c-1fd8-4bec-9558-f2e7bed0eeb3"
-      (reference "SW13") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW13") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/0231dae1-511c-487c-aa56-18ee0c98b12a"
-      (reference "SW14") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW14") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/7636c6b5-f4b9-4c02-b1c1-98c0ce777245"
-      (reference "SW15") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW15") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/0fdba837-d97e-485c-bbd3-05ab8c12e305"
-      (reference "SW16") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW16") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/3e92c18c-864c-4fdc-beb6-444daa80ec1f"
-      (reference "SW17") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW17") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/6afe310a-4990-4c8d-bd7f-a4dbf87c3f02"
-      (reference "SW18") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW18") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/b707eb54-bc65-4697-be54-c33c993413e0"
-      (reference "SW19") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW19") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/93aa1256-5a0e-479b-ae66-76c4de00b215"
-      (reference "SW20") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW20") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/fdd9a5c1-2b11-46e8-8a85-d3cc8974da8e"
-      (reference "SW21") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW21") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/2d7c5b23-77a6-488b-a351-3d231cde6475"
-      (reference "SW22") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW22") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/040b0ec7-7c1f-44d1-baae-20b5de1bce34"
-      (reference "SW23") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW23") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/a554318c-a852-4777-a620-aabc0b8f76f4"
-      (reference "SW24") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW24") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/766f8e4d-2be7-4953-81d6-5966e6ba0e8d"
-      (reference "SW25") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW25") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/05ce3fd4-cdff-4c8f-bfa2-ef24e6fb4a53"
-      (reference "SW26") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW26") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/7de20527-5d6f-472e-956a-0db3aa89f561"
-      (reference "SW27") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW27") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/c3bca24b-9e73-4fff-ad36-31397b1e833b"
-      (reference "SW28") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW28") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/d04a6339-f86a-47aa-b74d-dd585302f5a8"
-      (reference "SW29") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW29") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/fcbeead6-2c44-4342-9416-a8bd6cbfced3"
-      (reference "SW30") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW30") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/e5dc5b4b-9b84-4802-81c2-9b201ff537bc"
-      (reference "SW31") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW31") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/6da39ec5-1aac-4b58-bed5-282e10252ad0"
-      (reference "SW32") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW32") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/72b43be6-ede1-4e64-8ce6-d898cbcd19d6"
-      (reference "SW33") (unit 1) (value "1.5u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW33") (unit 1) (value "1.5u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/2bb48138-665d-4f90-87b7-1d164ce9e684"
-      (reference "SW34") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW34") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/9922d01e-629b-41c0-a14a-17602fdfb840"
-      (reference "SW35") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW35") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/8bf63715-512f-4bd3-ad9b-49ca1d1d5659"
-      (reference "SW36") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW36") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/6cb3386a-8ea3-46db-ac5f-9c08ae293f42"
-      (reference "SW37") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW37") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/5ee385ba-edb7-4dd3-859d-8cadc058291c"
-      (reference "SW38") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW38") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/e742b3ab-ed69-4c45-844e-b4173e0446ff"
-      (reference "SW39") (unit 1) (value "1.5u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW39") (unit 1) (value "1.5u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/eaaef3f9-d1bb-43ea-bd44-755b8afd344f"
-      (reference "SW40") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW40") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/0c27e6ff-45f4-41ea-bfe1-3c20834f1f08"
-      (reference "SW41") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW41") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/4f5700a1-79b8-4dc1-bbd4-5830f3567fc0"
-      (reference "SW42") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW42") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/9e066767-5698-4519-9de8-1dcc4d917d51"
-      (reference "SW43") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW43") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/bc1be04f-ad9d-49e3-9814-d8f3d80cc579"
-      (reference "SW44") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW44") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/36918743-0ad9-467b-8fd9-aef8e95fbe99"
-      (reference "SW45") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW45") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/8a1a4ac1-b779-49a0-8af6-ed51940509f6"
-      (reference "SW46") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW46") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/162211bc-ccc3-4162-a57d-dfda91d8f4da"
-      (reference "SW47") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW47") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/d463e8f0-35a3-4c32-8ed1-b68e8924c749"
-      (reference "SW48") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW48") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/60157c30-584b-4c22-ac8f-3350142aa48c"
-      (reference "SW49") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW49") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/38b54148-62e7-44de-bcb8-614902e913e1"
-      (reference "SW50") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW50") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/3b10b91b-ceba-4cc6-b688-a2917cb4eec4"
-      (reference "SW51") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW51") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/9105f697-9724-4d1c-90de-f79799886ed8"
-      (reference "SW52") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW52") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/5a794eec-5b27-40bd-ba4a-71a52c9db084"
-      (reference "SW53") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW53") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/b0e80126-10ae-4c84-8a90-c94041521434"
-      (reference "SW54") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW54") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/c1535cf8-1b7c-400d-bd52-e751260dbbe0"
-      (reference "SW55") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW55") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/074b552d-5820-402e-8e5d-5ae52e89abff"
-      (reference "SW56") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW56") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/8957ca58-7f63-43a9-bba9-ee9af977cced"
-      (reference "SW57") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW57") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/4de5ba0f-0a3d-4c09-93c4-5790da587794"
-      (reference "SW58") (unit 1) (value "1.5u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW58") (unit 1) (value "1.5u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/2c7e1553-4a5c-4dda-afc6-6aa019ea0495"
-      (reference "SW59") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW59") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/ccf77bc0-60b5-4e83-9814-df2b9e447e0c"
-      (reference "SW60") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW60") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/1db1fa94-f35a-470a-90b0-55a12c1953b5"
-      (reference "SW61") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW61") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/db0f719d-67d9-4782-8682-fc7b448ea3c7"
-      (reference "SW62") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW62") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/2eb18759-9b7b-4df2-b175-8189f1864b5c"
-      (reference "SW63") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW63") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/41076591-bad2-45e2-b62b-fb82fd22d214"
-      (reference "SW64") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW64") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/c95679f5-c81a-4af2-a221-1594bb5f214d"
-      (reference "SW65") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW65") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/7e3ee497-a406-417d-947d-30fa0fc88e49"
-      (reference "SW66") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW66") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/6501cb3b-457b-40fb-b07a-f5a123a53e10"
-      (reference "SW67") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW67") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/6e3d1b6c-5786-48c8-8673-489a1c5280f0"
-      (reference "SW68") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW68") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/af5baea7-62d4-4fb7-b4a9-0de0ecf1aab0"
-      (reference "SW69") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW69") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/69ac44d9-88bf-430e-87af-f56192f7fcdc"
-      (reference "SW70") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW70") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/e0e7a1e8-a3f3-42b0-9e21-838f29411d97"
-      (reference "SW71") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW71") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/83825843-81ee-42b0-95c7-6f93f4bd006f"
-      (reference "SW72") (unit 1) (value "1.5u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW72") (unit 1) (value "1.5u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/22d87f34-53fc-4f13-beb4-9780eb41e263"
-      (reference "SW73") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW73") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/834d3f07-0f2d-4c8d-8c56-12d49464bc42"
-      (reference "SW74") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW74") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/c59a1d6c-75bc-4f2e-9823-fe119f149845"
-      (reference "SW75") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW75") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/05a1d6a1-4330-4f49-9034-ced4e794994d"
-      (reference "SW76") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW76") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/1df02cfc-b623-464a-b5fc-582634d7c71e"
-      (reference "SW77") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW77") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/9da6dae5-9a5f-4f5d-82b5-74dbb072a31b"
-      (reference "SW78") (unit 1) (value "2.25u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW78") (unit 1) (value "2.25u") (footprint "cipulot_parts:ecs_pad_2U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/56c8ce06-1d5b-435e-9df5-e7530ef4db6f"
-      (reference "SW79") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW79") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/32744cd3-f2f2-4c1e-b371-92e0333f72a4"
-      (reference "SW80") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW80") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/bce408ff-ef56-4690-a62c-2bc525abbfd1"
-      (reference "SW81") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW81") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/66328309-04c3-498e-9bac-4b840a7afeec"
-      (reference "SW82") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW82") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/da1bf39e-10d8-4e0d-a86a-f969fa1b1eea"
-      (reference "SW83") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW83") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/c056d73d-b619-409a-8bea-c7dfef29d297"
-      (reference "SW84") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW84") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/917c5267-15a0-4738-932f-672733fd09b8"
-      (reference "SW85") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW85") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/b30815fe-8427-449d-9ab0-7098ba0833f0"
-      (reference "SW86") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW86") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/1847fea8-f254-448c-989f-63f8834386f3"
-      (reference "SW87") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW87") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/0f4c1621-db13-4674-bdcf-28fe45a3ea69"
-      (reference "SW88") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW88") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/46ef6c5d-f0cd-4e1e-8f39-2bc293be516e"
-      (reference "SW89") (unit 1) (value "1.5u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW89") (unit 1) (value "1.5u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/2f4feed1-8c33-41e3-bfed-7b56fec7a30a"
-      (reference "SW90") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW90") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/74acd145-c91e-41b9-8ad7-0e0a824cd800"
-      (reference "SW91") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW91") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/ed51b720-0069-4abd-a5c5-6a8d69c9652b"
-      (reference "SW92") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW92") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/0c65ff72-88ae-4935-87df-e1afac067882"
-      (reference "SW93") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW93") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/aceb38b0-a398-4e93-b66f-b476b9cd0a55"
-      (reference "SW94") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW94") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/d4066a68-7236-4265-98ce-1f8ae7a3a8f1"
-      (reference "SW95") (unit 1) (value "2u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW95") (unit 1) (value "2u") (footprint "cipulot_parts:ecs_pad_2U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/e46e3340-4ec3-466d-bd13-e3d047028620"
-      (reference "SW96") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW96") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/b1d94f8b-2365-45db-996b-ed9422e4d52a"
-      (reference "SW97") (unit 1) (value "1.5u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW97") (unit 1) (value "1.5u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/15d550cc-7d14-49f6-bd87-618c5f9bb11e"
-      (reference "SW98") (unit 1) (value "5u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW98") (unit 1) (value "5u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/73b33be4-d5aa-4b5d-a941-af51f33fc0d2"
-      (reference "SW99") (unit 1) (value "1.5u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW99") (unit 1) (value "1.5u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/1536278f-9ab2-4d2d-b249-209bb6f57461"
-      (reference "SW100") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW100") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/04cf2882-69d4-458c-9a23-6f91e1d6df07"
-      (reference "SW101") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW101") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/74ea2c3e-aa64-486f-b4be-8c84339cfbce"
-      (reference "SW102") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW102") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/737a3edc-639c-404a-a989-64d9811f050f"
-      (reference "SW103") (unit 1) (value "2u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW103") (unit 1) (value "2u") (footprint "cipulot_parts:ecs_pad_2U_no_ring")
     )
     (path "/d1422f38-9fce-4f5e-878a-341530beaf9c/d77ca1c6-2dfe-4eff-9a5e-6d7da5940428"
-      (reference "SW104") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_no_ring")
+      (reference "SW104") (unit 1) (value "1u") (footprint "cipulot_parts:ecs_pad_1U_no_ring")
     )
     (path "/25c574cd-732e-4d67-8627-07f0759d5177"
       (reference "U1") (unit 1) (value "STM32F401CBUx") (footprint "Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm")
