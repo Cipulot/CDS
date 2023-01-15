@@ -1,4 +1,4 @@
-/* Copyright 2022 Cipulot
+/* Copyright 2023 Cipulot
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -180,7 +180,7 @@ bool ecsm_matrix_scan(matrix_row_t current_matrix[]) {
     // Disable AMUX of channel 0 and 1
     writePinHigh(APLEX_EN_PIN_0);
     writePinHigh(APLEX_EN_PIN_1);
-    for (int col = 0; col < sizeof(col_channels); col++) {
+    for (int col = 0; col < (sizeof(col_channels) - 5); col++) {
         for (int row = 0; row < MATRIX_ROWS; row++) {
             ecsm_sw_value[row][col + 16] = ecsm_readkey_raw(2, row, col);
             updated |= ecsm_update_key(&current_matrix[row], row, col + 16, ecsm_sw_value[row][col + 16]);

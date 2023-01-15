@@ -1,4 +1,4 @@
-/* Copyright 2022 Cipulot
+/* Copyright 2023 Cipulot
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -17,11 +17,11 @@
 #include "cds.h"
 
 void matrix_init_kb(void) {
-   	setPinOutput(B12);
+    setPinOutput(B12);
     setPinOutput(B13);
 }
 bool led_update_kb(led_t led_state) {
-    if(led_update_user(led_state)) {
+    if (led_update_user(led_state)) {
         writePin(B12, led_state.caps_lock);
     }
     return true;

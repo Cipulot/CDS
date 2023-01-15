@@ -1,4 +1,4 @@
-/* Copyright 2022 Cipulot
+/* Copyright 2023 Cipulot
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -30,6 +30,7 @@
 extern matrix_row_t raw_matrix[MATRIX_ROWS]; // raw values
 extern matrix_row_t matrix[MATRIX_ROWS];     // debounced values
 
+// clang-format off
 const uint16_t low_threshold[MATRIX_ROWS][MATRIX_COLS] = {
     { 650, 650, 650, 650, 650, 650, 650, 650, 650, 650, 650, 650, 650, 650, 650, 650, 650, 650, 650 }, \
     { 650, 650, 650, 650, 650, 650, 650, 650, 650, 650, 650, 650, 650, 650, 650, 650, 650, 650, 650 }, \
@@ -46,6 +47,7 @@ const uint16_t high_threshold[MATRIX_ROWS][MATRIX_COLS] = {
     { 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600 }, \
     { 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600, 600 }  \
 };
+// clang-format on
 
 void matrix_init_custom(void) {
     ecsm_config_t ecsm_config;
@@ -71,6 +73,5 @@ bool matrix_scan_custom(matrix_row_t current_matrix[]) {
         ecsm_print_matrix();
     }
 #endif
-
     return updated;
 }
