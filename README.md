@@ -50,5 +50,3 @@ This revision implements all the main features of the mainboard mentioned in the
 ## Copyright notice
 
 This project is not endorse nor sponsored in any way by Topre Corporation or CDS Technology.
-
-This project is released under the MIT License. For the license, please refer to the LICENSE.md file.
