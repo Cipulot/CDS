@@ -1,6 +1,6 @@
 # CDS
 
-Replacement PCB fro the CDS Technology keyboard  (CDS-G5CSKB, Topre HiPro)/
+Replacement PCB fro the CDS Technology keyboard (CDS-G5CSKB, Topre HiPro)/
 
 ## Introduction
 
@@ -50,3 +50,7 @@ This revision implements all the main features of the mainboard mentioned in the
 ## Copyright notice
 
 This project is not endorse nor sponsored in any way by Topre Corporation or CDS Technology.
+
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
